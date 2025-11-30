@@ -1,0 +1,1 @@
+# upsonic-ai-django-case
